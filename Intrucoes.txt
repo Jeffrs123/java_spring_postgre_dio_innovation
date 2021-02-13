@@ -1,0 +1,15 @@
+Entrar no arquivo:
+cliente-room e no terminal rodar:
+npm install
+depois
+ng serve para rodar a aplicação em angular.
+A aplicação rodará 
+
+Importar o arquivo saladereuniao no eclipse.
+entrar no pom.xml para que os imports sejam realizados.
+configurar o arquivo application.properties de acordo com suas configurações Postgree
+principal atenção na porta, nome do projeto banco de dados e senha.
+Dar o play para iniciar a aplicação.
+
+Já ter instalado o Postgree para configuração da aplicação Back-end.
+
